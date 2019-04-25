@@ -68,3 +68,4 @@ _A list of my commonly used Git commands_
 ## Setup Github SSH Access: ssh-keygen -t rsa -C "user@email.com"
 
 Enter passphrase (empty for no passphrase)
+id_rsa id_rsa.pub
